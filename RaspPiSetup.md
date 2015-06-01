@@ -8,7 +8,7 @@
    ** address 192.168.1.3
    ** netmask 255.255.255.0
    ** gateway 192.168.1.1
-   ** broadcase 192.168.1.255
+   ** broadcast 192.168.1.255
 
 3) Update to crontab to run pygodaddy Dynamics DNS code from https://github.com/ngcurrier/PyGoDaddy
    * Make sure to change username and password to the real ones .py file
